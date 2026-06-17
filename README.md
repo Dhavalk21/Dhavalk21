@@ -8,8 +8,8 @@ Senior Product Manager who loves solving user problems, building AI products and
 * 📋 Sharing everything I learn openly so others do not have to figure it out alone.
 
 ### 📊 Interactive Product Priority Matrix: 
-  *  https://dhavalk21.github.io/Product-prioritization-tool/
+  *  🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/Product-prioritization-tool/)
   *  An interactive quarterly planning dashboard that lets PMs simulate strategy changes using custom weights.
 ### 📊  Product Experimentation (A/B Testing) & ARR Impact Simulator: 
-  *  https://dhavalk21.github.io/Product-Experimentation-and-ARR-Impact--Simulator/
+  *  🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/Product-Experimentation-and-ARR-Impact--Simulator/)
   *  An interactive A/B testing Tool and ARR impact simulator. Tool helps product teams design scientifically sound A/B tests, prevent underpowered experiments, and calculate the financial return on investment (ROI).
