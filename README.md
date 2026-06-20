@@ -10,12 +10,12 @@ Senior Product Manager who loves solving user problems, building AI products and
 ### 🤖 RAG Pipeline Performance & Token Cost Simulator
   *  🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/rag-pipeline-and-token-cost-optimizer/)
   *  An interactive, strategic product management dashboard designed to model and balance retrieval accuracy (recall), end-to-end user latency, and token consumption costs across modern Large Language Models (LLMs).
-### 📊  Product Experimentation (A/B Testing) & ARR Impact Simulator: 
+### 🧪  Product Experimentation (A/B Testing) & ARR Impact Simulator: 
   *  🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/Product-Experimentation-and-ARR-Impact--Simulator/)
   *  An interactive A/B testing Tool and ARR impact simulator. Tool helps product teams design scientifically sound A/B tests, prevent underpowered experiments, and calculate the financial return on investment (ROI).
-### 📊 Interactive Product Priority Matrix: 
+### ⚖️ Interactive Product Priority Matrix: 
   *  🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/Product-Prioritization-Tool/)
   *  An interactive quarterly planning dashboard that lets PMs simulate strategy changes using custom weights.
-### 📊  Cohort Retention & LTV Simulator: 
+### 💎  Cohort Retention & LTV Simulator: 
   *  🔗 Live Link: [View Interactive App Here](https://dhavalk21.github.io/Cohort-Retention-LTV-Simulator/)
   *  AAn interactive analytics dashboard built to model user retention curves, simulate onboarding optimizations, and project compounding Customer Lifetime Value (LTV) across various business models.
