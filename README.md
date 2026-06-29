@@ -1,6 +1,6 @@
 # Hi, I'm Dhaval 👋
 
-Senior Product Manager and Builder who loves solving user problems, building AI products & agents, organizing messy data, and creating automation workflows. Helping businesses grow with technology that actually works.  
+Product Manager and Builder who loves solving user problems, building AI products & agents, organizing messy data, and creating automation workflows. Helping businesses grow with technology that actually works.  
 
 ### 🎯 Current Focus Areas
 * 🔍 **Building AI Products:** Designing data-driven tools that solve real problems for businesses. 
