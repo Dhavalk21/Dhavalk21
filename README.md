@@ -12,7 +12,7 @@ Product Manager and Builder who loves solving user problems, building AI product
 As a product leader, I build high-fidelity interactive simulation environments to model technical architecture trade-offs, financial impacts, and behavioral heuristics. 
 
 ### 🤖 AI, LLM & Workflow Automation
-| Project | Description | Live App / Code |
+| Project | Description | Live App/Code |
 | :--- | :--- | :---: |
 | **Multi-Agent Product Discovery Loop** | AI-powered multi-agent product discovery workflow. Uses orchestrated LLM agents to conduct market research, simulate user personas, and generate developer-ready PRDs. | [View Code 🐙](https://github.com/Dhavalk21/Multi-Agent-Product-Discovery-Loop) |
 | **AI Product Evals & Release Gate** | Simulates **Ragas & DeepEval** metrics to calculate overall quality, predict customer CSAT, and evaluate production churn risk. | [Launch 🚀](https://ai-evals-and-observability-controller.streamlit.app/) |
