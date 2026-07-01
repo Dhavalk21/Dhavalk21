@@ -23,6 +23,7 @@ As a product leader, I build high-fidelity interactive simulation environments t
 | Project | Description | Live App |
 | :--- | :--- | :---: |
 | **A/B Testing & ARR Impact Simulator** | Maximizes scientific rigor in experimentation. Prevents underpowered experiments and directly models localized financial ROI/ARR impact. | [Launch 🚀](https://dhavalk21.github.io/Product-Experimentation-and-ARR-Impact--Simulator/) |
+| **PLG Paywall & Usage Limit Simulatorr** | An interactive PLG paywall and usage limit optimizer built for data-driven growth. | [Launch 🚀](https://dhavalk21.github.io/plg-paywall-simulator/) |
 | **Cohort Retention & LTV Simulator** | Models user retention curves, simulates product onboarding optimizations, and projects compounding lifetime value (LTV) models. | [Launch 🚀](https://dhavalk21.github.io/Cohort-Retention-LTV-Simulator/) |
 | **Interactive Product Priority Matrix** | Interactive quarterly planning engine allowing PMs to dynamically simulate shifting strategies using custom RICE prioritization weights. | [Launch 🚀](https://dhavalk21.github.io/Product-Prioritization-Tool/) |
 
