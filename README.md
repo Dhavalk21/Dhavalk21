@@ -27,6 +27,6 @@ As a product leader, I build high-fidelity interactive simulation environments t
 | **Cohort Retention & LTV Simulator** | Models user retention curves, simulates product onboarding optimizations, and projects compounding lifetime value (LTV) models. | [Launch 🚀](https://dhavalk21.github.io/Cohort-Retention-LTV-Simulator/) |
 | **Interactive Product Priority Matrix** | Interactive quarterly planning engine allowing PMs to dynamically simulate shifting strategies using custom RICE prioritization weights. | [Launch 🚀](https://dhavalk21.github.io/Product-Prioritization-Tool/) |
 
-## 👨‍💻 Connect With Me
+## 👨‍💻 Connect With Me:
 * 💼 **LinkedIn:** [Dhaval Kareliya](https://www.linkedin.com/in/dhavalk21/)
 * 🐙 **GitHub:** [Dhavalk21](https://github.com/Dhavalk21)
