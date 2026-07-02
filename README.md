@@ -15,6 +15,7 @@ As a product leader, I build high-fidelity interactive simulation environments t
 | Project | Description | Live App / Code |
 | :--- | :--- | :---: |
 | **Multi-Agent Product Discovery Loop** | AI-powered multi-agent product discovery workflow. Uses orchestrated LLM agents to conduct market research, simulate user personas, and generate developer-ready PRDs. | [View Code 🐙](https://github.com/Dhavalk21/Multi-Agent-Product-Discovery-Loop) |
+| **LLM Prompt Repetition & Pareto Frontier** | An interactive simulator designed to model the cost-to-accuracy trade-offs of Prompt Repetition vs standard and Chain-of-Thought (CoT) prompting strategies. | [Launch 🚀](https://dhavalk21.github.io/prompt-repetition-simulator/) |
 | **AI Product Evals & Release Gate** | Simulates **Ragas & DeepEval** metrics to calculate overall quality, predict customer CSAT, and evaluate production churn risk. On the demo page click **Yes, get this app back up!** | [Launch 🚀](https://ai-evals-and-observability-controller.streamlit.app/) |
 | **AI Product Feedback Triage** | An automated AI system built in n8n that dynamically reads, categorizes, and routes customer feedback to Slack and Notion. | [View Code 🐙](https://github.com/Dhavalk21/AI-product-feedback-triage) |
 | **RAG Performance & Token Cost Simulator** | Models the critical trade-offs between retrieval accuracy (recall), end-to-end user latency, and API token spend across modern LLM providers. | [Launch 🚀](https://dhavalk21.github.io/rag-pipeline-and-token-cost-optimizer/) |
