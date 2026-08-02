@@ -20,7 +20,7 @@ As a product leader, I build high-fidelity interactive simulation environments t
 | **RAG Performance & Token Cost Simulator** | Models the critical trade-offs between retrieval accuracy (recall), end-to-end user latency, and API token spend across modern LLM providers. | [Launch 🚀](https://dhavalk21.github.io/rag-pipeline-and-token-cost-optimizer/) |
 | **AI Product Evals & Release Gate** | Simulates **Ragas & DeepEval** metrics to calculate overall quality, predict customer CSAT, and evaluate production churn risk. On the demo page click **Yes, get this app back up!** | [Launch 🚀](https://ai-evals-and-observability-controller.streamlit.app/) |
 | **AI Product Feedback Triage** | An automated AI system built in n8n that dynamically reads, categorizes, and routes customer feedback to Slack and Notion. | [View Code 🐙](https://github.com/Dhavalk21/AI-product-feedback-triage) |
-| **RAG Performance & Token Cost Simulator** | Models the critical trade-offs between retrieval accuracy (recall), end-to-end user latency, and API token spend across modern LLM providers. | [Launch 🚀](https://dhavalk21.github.io/rag-pipeline-and-token-cost-optimizer/) |
+| **LLM Cost & Accuracy Decision Enginer** | An interactive application designed to evaluate LLM trade-offs for high-volume automated tasks (e.g., classification, extraction, ticket routing, and tagging). | [Launch 🚀](https://dhavalk21.github.io/llm-cost-and-accuracy-decision-engine/) |
 
 ### 📈 Growth, Analytics & Strategy
 | Project | Description | Live App |
