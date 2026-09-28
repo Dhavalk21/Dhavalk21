@@ -25,6 +25,7 @@ As a product leader, I build high-fidelity interactive simulation environments t
 ### 📈 Growth, Analytics & Strategy
 | Project | Description | Live App |
 | :--- | :--- | :---: |
+| **Cohort Detective** | Interactive cohort-analysis case study: explore cohorts, see why overall retention lies, and solve a "retention dropped investigation. | [Launch 🚀](https://dhavalk21.github.io/cohort-detective/) |
 | **A/B Testing & ARR Impact Simulator** | Maximizes scientific rigor in experimentation. Prevents underpowered experiments and directly models localized financial ROI/ARR impact. | [Launch 🚀](https://dhavalk21.github.io/Product-Experimentation-and-ARR-Impact--Simulator/) |
 | **PLG Paywall & Usage Limit Simulator** | An interactive PLG paywall and usage limit optimizer built for data-driven growth. | [Launch 🚀](https://dhavalk21.github.io/plg-paywall-simulator/) |
 | **Cohort Retention & LTV Simulator** | Models user retention curves, simulates product onboarding optimizations, and projects compounding lifetime value (LTV) models. | [Launch 🚀](https://dhavalk21.github.io/Cohort-Retention-LTV-Simulator/) |
